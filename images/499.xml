@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>499.jpg</filename>
+	<path>/home/marcocelia/.venv/cvtf/lib/python3.8/site-packages/tensorflow/models/images/499.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>351</width>
+		<height>366</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>186</ymin>
+			<xmax>275</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>
